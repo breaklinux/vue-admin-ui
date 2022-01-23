@@ -73,7 +73,7 @@
 git clone https://github.com/breaklinux/vue-admin-ui.git
 
 # enter the project directory
-cd /vue-admin-ui
+cd vue-admin-ui
 
 # install dependency
 npm install
